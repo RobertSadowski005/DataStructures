@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ArrayFibo {
     public static void main(String[] args) {
-        System.out.println("Enter int value:");
+        System.out.print("Enter int value:");
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
 
